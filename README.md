@@ -10,12 +10,14 @@ To understand what networks are, how devices communicate with each other, and ho
 ---
 
 ### 🗝️ Key Concepts
-- The definition and purpose of computer networks
-- The difference between private and public networks
-- IP addresses vs MAC addresses
-- How the Internet is made up of smaller networks
-- Introduction to IPv4, IPv6, and address limitations
-- Spoofing and the risks of trusting network identities
+- Networking Basics – Understanding what a network is and how devices connect.
+- Private vs Public IP Addresses – Knowing the difference between local and internet-facing addresses.
+- MAC Addresses – Unique hardware identifiers used to identify devices on a network.
+- IP Addressing & Subnetting – How IPs are structured and managed within a network.
+- Ping & ICMP – Tools and protocols used to test and measure connectivity.
+- IPv4 vs IPv6 – Comparing address formats and why IPv6 is important.
+- Device Identification – How devices recognise and talk to each other on a network.
+- Network Communication Rules – Protocols that ensure devices "speak the same language".
 
 ---
 
