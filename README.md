@@ -40,7 +40,7 @@ To understand what networks are, how devices communicate with each other, and ho
 ---
 
 ### 🌐 Real-World Application:
-Knowing how networks function is essential in cyber security, whether you're defending systems, investigating incidents, or scanning for vulnerabilities. Understanding IPs, MACs, and how devices are identified helps avoid security assumptions that attackers can exploit.
+> Knowing how networks function is essential in cyber security, whether you're defending systems, investigating incidents, or scanning for vulnerabilities. Understanding IPs, MACs, and how devices are identified helps avoid security assumptions that attackers can exploit.
 
 ---
 
@@ -48,5 +48,3 @@ Knowing how networks function is essential in cyber security, whether you're def
 - I found the breakdown of private vs public IPs and how they work with ISPs really interesting.
 - I wouldn’t approach anything differently this time, but I’ll definitely build on this knowledge as things get more technical.
 - The realisation that networks are everywhere — even in something like smart traffic lights — was eye-opening.
-
----
